@@ -22,4 +22,4 @@ I am an astronomy programmer specializing in developing software tools for astro
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paex277&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paext277&show_icons=true&theme=radical)
